@@ -1,0 +1,9 @@
+---
+- name: Lab 3 Part 2
+  hosts: localhost
+  connection: local
+  
+  tasks:
+    - name: Hello World!
+      debug:
+        msg: "Hello World!"
