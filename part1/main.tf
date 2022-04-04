@@ -7,7 +7,7 @@ terraform {
   }
 
   backend "s3" {
-    bucket = "lab-03-terraform"
+    bucket = "terraform-demo-by-josh"
     key    = "part1_state"
     region = "us-east-1"
   }
