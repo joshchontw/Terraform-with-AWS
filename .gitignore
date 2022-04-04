@@ -25,10 +25,5 @@ override.tf.json
 #
 # !example_override.tf
 
-# Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
-# example: *tfplan*
-.gitsecret/keys/random_seed
-
-
 #  Key files
-testkey.pem
+part2/testkey.pem
