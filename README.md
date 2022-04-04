@@ -75,7 +75,3 @@ This module, hosted in a repository on my GitHub, deploys a simple VPC. Unlike a
 > Our VPC, with the CIDR block of 10.0.0.0/16 is now deployed
 
 ![image](https://user-images.githubusercontent.com/81763406/161593377-0b7119b4-1a4a-4677-ae70-a8b02a8dec8c.png)
-
----
-
-## Appendix
